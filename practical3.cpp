@@ -2,6 +2,7 @@
 #include <conio.h>
 void main()
 {
+    clrscr();
     float r;
     float area,circ;
     cout << "Enter the radius of circle : ";
