@@ -1,5 +1,5 @@
 /*
-WAP to check whether a given year is a leap year or not
+WAP to check whether a given year is a leap year or not,
 using an if else statement.
 @ChaitanyaJoshiX
 */
