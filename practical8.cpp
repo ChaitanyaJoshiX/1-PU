@@ -1,5 +1,5 @@
 /*
-WAP to input a character and find out whether it is a lower case
+WAP to input a character and find out whether it is a lower case,
 or upper case character using if-else statement.
 @ChaitanyaJoshiX
 */
