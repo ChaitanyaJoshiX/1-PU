@@ -1,5 +1,5 @@
 /*
-WAP to input the total amount in a bill,
+WAP to input the total amount in a bill
 If the amount is greater than 1000 the a discount of 8% is given
 otherwise no discount is given.
 Output the total amount, the discount amount and the final amount, use
