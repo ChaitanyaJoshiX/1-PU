@@ -1,6 +1,7 @@
 /*
 WAP to find the sum of all the digits of a number using while
 statement.
+
 @ChaitanyaJoshiX
 */
 #include <iostream.h>
