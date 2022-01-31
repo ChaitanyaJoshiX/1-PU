@@ -1,5 +1,5 @@
 /*
-WAP to find the factorial of a number using for statement.
+WAP to find the factorial of a number using the for statement.
 @ChaitanyaJoshiX
 */
 
