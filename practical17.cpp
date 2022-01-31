@@ -6,7 +6,7 @@ WAP to find the sum and average of “N” numbers.
 #include <iostream>
 using namespace std;
 
-main()
+int main()
 {
   int n, i, sum=0;
   cout << "Enter n : ";
@@ -28,4 +28,5 @@ main()
   int average = sum / n;
   cout << "Sum = " << sum << endl;
   cout << "Average = " << average << endl;
+  return 0;
 }
