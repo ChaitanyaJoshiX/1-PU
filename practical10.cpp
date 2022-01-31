@@ -8,6 +8,7 @@ First Class Between 60 and 100%
 Second Class Between 50 and 59%
 Pass Class Between 40 and 49%
 Fails Less than 40%
+
 @ChaitanyaJoshiX
 */
 #include <iostream.h>
