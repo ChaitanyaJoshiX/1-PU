@@ -6,7 +6,7 @@ WAP to find the second largest of “N” numbers.
 #include <iostream>
 using namespace std;
 
-main()
+int main()
 {
   int n, i;
   cout << "Enter n : ";
@@ -44,4 +44,5 @@ main()
     }
   }
   cout << "Second largest number : " << secLargest << endl;
+  return 0;
 }
