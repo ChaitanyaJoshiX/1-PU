@@ -6,7 +6,7 @@ WAP to find the position of a given number in an array.
 #include <iostream>
 using namespace std;
 
-main()
+int main()
 {
   int n, i, num;
   bool flag = false;
@@ -37,4 +37,5 @@ main()
   {
     cout << "Number not found" << endl;
   }
+  return 0;
 }
