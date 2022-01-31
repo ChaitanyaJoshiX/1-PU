@@ -13,8 +13,8 @@ void main()
   int flag = 0;
   cout << "Enter the number : ";
   cin >> n;
+  
   a = n;
-
   while(n > 2)
   {
     if(n % 2 == 1)
