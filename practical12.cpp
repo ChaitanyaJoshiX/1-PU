@@ -2,6 +2,7 @@
 WAP to input principal amount, rate of interest and time period
 and calculate compound interest using while statement
 (Hint: CI = P * ( 1 + R / 100) T).
+
 @ChaitanyaJoshiX
 */
 #include<iostream.h>
