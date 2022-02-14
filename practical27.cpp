@@ -1,7 +1,9 @@
 /*
 WAP to find the GCD and LCM of two numbers using functions.
+
 @ChaitanyaJoshiX
 */
+
 #include <iostream>
 using namespace std;
 
