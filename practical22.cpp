@@ -1,6 +1,5 @@
 /*
-WAP to sum of all the rows and the sum of all the columns of a
-matrix separately.
+WAP to sum of all the rows and the sum of all the columns of a matrix .
 
 @ChaitanyaJoshiX
 */
