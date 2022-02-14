@@ -4,7 +4,7 @@ Scalar Matrix :
 [[1 0 4]
  [5 1 7]
  [5 6 1]]
-diagonal 1 is same.
+princiapl diagonal is same.
 
 @ChaitanyaJoshiX
 */
