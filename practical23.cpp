@@ -73,6 +73,6 @@ main()
   }
   else
   {
-    cout << "Matrices are not compatible!" << endl;
+    cout << "The matrices are not compatible!" << endl;
   }
 }
