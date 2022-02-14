@@ -13,6 +13,7 @@ WAP using a function to calculate the allowance.
 
 @ChaitanyaJoshiX
 */
+
 #include <iostream>
 using namespace std;
 
