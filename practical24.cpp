@@ -5,8 +5,7 @@ by 20 students in 5 subjects.
 Now write a program to:
 a) Find the average marks obtained in each subject
 b) Find the average marks obtained by every student
-c) Find the number of students who have scored below 50 in their
-average.
+c) Find the number of students who have scored below 50 in their average.
 
 @ChaitanyaJoshiX
 */
