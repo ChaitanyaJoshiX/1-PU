@@ -1,5 +1,6 @@
 /*
 WAP to check whether a given string is a palindrome or not.
+
 @ChaitanyaJoshiX
 */
 #include <iostream>
