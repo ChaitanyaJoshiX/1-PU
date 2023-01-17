@@ -3,8 +3,10 @@
 
 2. If you are trying to run this code in a modern IDE (VS code, Atom, etc.), Please make the necessary removals such as getch(), iostream.h and addition of namespace std.
 
-3.SFS Used:
+3. SFS Used:
+
 C++ : Turbo C++
+
 HTML : Notepad
 
 Take a 🍪 if you read till here :)
