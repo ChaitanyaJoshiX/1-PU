@@ -1,10 +1,11 @@
 # 1-PU-Programs
-All the programs I am coding as a part of the 1 year syllabus under Department Of Pre-University Education.
+1. All the programs I am coding as a part of the 1 year syllabus under Department Of Pre-University Education.
 
-If you are trying to run this code in a modern IDE (VS code, Atom, etc.)
-Please make the necessary removals (getch(), iostream.h)
+2. If you are trying to run this code in a modern IDE (VS code, Atom, etc.), Please make the necessary removals such as getch(), iostream.h and addition of namespace std.
 
-This code uses obsolete headers and commands as its coded in Turbo C++, Thanks to our great edu system.
+3.SFS Used:
+C++ : Turbo C++
+HTML : Notepad
 
 Take a 🍪 if you read till here :)
 Cheerio.
